@@ -1,0 +1,40 @@
+header{
+
+   background:linear-gradient(rgba(0, 0, 0, 0.932),rgba(0, 0, 0, 0.589)), url('https://scontent.fgru5-1.fna.fbcdn.net/v/t1.6435-9/158111792_2834090296831811_7749634505969840539_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHeD4XViclWCt85x9Nxwaz5Z_8ypMBr-LBn_zKkwGv4sH1hMG9jP553MYAVLThMVfYGHivpPX8ho5BX_hr9FOvk&_nc_ohc=AsJIgWvlzvIAX9RZXGo&_nc_ht=scontent.fgru5-1.fna&oh=00_AfDqarYesNKiiJF6LcGf28UsLA5D3t-dKLlIbiAqFpP8PA&oe=653BF19F') no-repeat center; 
+   background-size: cover;
+   text-align: center;
+  height: 60vh;
+   padding: 1.25rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+   background-attachment: fixed;
+
+   
+}
+
+header h1{
+
+   color: #c5d20b;
+
+}
+
+header .botao{
+
+color: #fff;
+background: #191970;
+padding: 0.6rem 1.4rem;
+font-size: .9rem;
+border-radius: 5px;
+transform: skew(-12deg);
+}
+
+.botao_destaque{
+   background: #fff;
+   color: #2d2dca;
+   padding: 0.6rem 1.4rem;
+font-size: .9rem;
+border-radius: 5px;
+transform: skew(-12deg);
+}

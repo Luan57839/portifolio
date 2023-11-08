@@ -1,0 +1,31 @@
+#fotos{
+    background: #191970;
+    margin-top: 2%;
+
+}
+
+#fotos h2{
+    margin-bottom: 4%;
+}
+
+#fotos div{
+    flex-wrap: wrap;
+   width: 100%; 
+   display: flex;
+   justify-content: center;
+  height: 80vh;
+
+
+}
+
+#fotos div img{
+
+width: 30%;
+height: 40%;
+padding: 0 2%;
+
+
+
+}
+
+
